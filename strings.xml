@@ -1,16 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">First - Degree</string>
-    <string name="title_app">First Degree</string>
-    <string name="title_coefficient_a">Coefficient a:</string>
-    <string name="title_coefficient_b">Coefficient b:</string>
-    <string name="title_solution">Solution</string>
-    <string name="title_next" >Next</string>
-    <string name="title_exit">Exit</string>
-    <string name="title_result">Result</string>
-    <string name="title_infinity">Infinity!</string>
-    <string name="title_nosolution">No Solution</string>
-    <string name="title_english">English</string>
-    <string name="title_vietnam">Vietnamese</string>
-    <string name="title_france">France</string>
-    <string name="title_russia">Russian</string>
+
+    <string name="app_name">Équation du premier degré</string>
+    <string name="title_app">Équation du premier degré</string>
+    <string name="title_coefficient_a">Coefficient a :</string>
+    <string name="title_coefficient_b">Coefficient b :</string>
+    <string name="title_solution">Résoudre</string>
+    <string name="title_next">Suivant</string>
+    <string name="title_exit">Quitter</string>
+    <string name="title_result">Résultat</string>
+    <string name="title_infinity">Infini!</string>
+    <string name="title_nosolution">Pas de solution</string>
+    <string name="title_english">Anglais</string>
+    <string name="title_vietnam">Vietnamien</string>
+    <string name="title_france">Français</string>
+    <string name="title_russia">Russe</string>
+
 </resources>
